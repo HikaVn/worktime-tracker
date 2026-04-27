@@ -1,0 +1,10 @@
+# Phase 1 MVP
+pywin32
+pynput
+
+# Phase 2+ (add when needed)
+# pillow
+# mss
+# pystray
+# pandas
+# openpyxl
